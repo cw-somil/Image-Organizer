@@ -1,5 +1,8 @@
 # Image Organizer
 
+Check out the tutorial
+[Image Organizer](https://medium.com/@somilshah112/organize-your-photos-with-python-automation-fe1595326b48)
+
 ## Install Requirements
 
     pip install -r requirements.txt
